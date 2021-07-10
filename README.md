@@ -2,6 +2,11 @@
 
 dictionary application using  Flutter 
 
+Features
+Search For Your Word 🔍
+Get Type Of Word , Definition  😎
+More Than 100,000 Words Available 🤯
+Lightning - Fast Results 
 
 ![1](https://user-images.githubusercontent.com/61249937/125175452-e8347380-e1d4-11eb-9999-61f6cf5708a5.jpg)
 

@@ -1,1 +1,1 @@
-# findme-dictionary-in-flutter
+# findme-dictionary app-in-flutter
